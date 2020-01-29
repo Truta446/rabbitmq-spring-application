@@ -1,1 +1,1 @@
-# rabbitmq-spring-Application
+# rabbitmq-spring-application
